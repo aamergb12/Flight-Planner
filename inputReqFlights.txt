@@ -1,0 +1,6 @@
+4
+Dallas|Houston|T
+Dallas|NewYork|C
+Houston|NewYork|T
+Austin|LosAngeles|C
+
